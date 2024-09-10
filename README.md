@@ -27,7 +27,7 @@
     <a href = "mailto: wesleydasilva278@gmail.com">
       <img width="30" src="https://th.bing.com/th/id/R.229079c8f5240851cece598cf8eee770?rik=JND2PKmC%2fxzB1w&riu=http%3a%2f%2fpngimg.com%2fuploads%2femail%2femail_PNG11.png&ehk=6sNwAjueFilXp3tCehLPbXDGgZgsYZdR7y6dZ3vpSk4%3d&risl=&pid=ImgRaw&r=0">
     </a>
-    <a href = "https://www.linkedin.com/in/wesleysouza278/">
+    <a href = "https://www.linkedin.com/in/wesleysouzas">
       <img width="25" src="https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png">
     </a>
     <a href = "https://instagram.com/wesley_dwb?igshid=ZGUzMzM3NWJiOQ==">
