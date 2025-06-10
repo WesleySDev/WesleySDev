@@ -11,8 +11,7 @@
 
 <div  align="center"> 
   <div style="display: "></br>
-    <img align="left" height="250" alt="coding-time" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sioqgm9kbxfqxu40ma8rjjii0f2ljo10y5898hfg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-    <h1 align="center">Tecnologia desenvolvidas<3</h1>
+    <h1 align="center">Tecnologia desenvolvidas</h1>
   <div align="center">
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
